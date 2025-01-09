@@ -1,4 +1,4 @@
-# Final homework project in C#
+# Homework Project in C#
 
 This repository contains my final homework project created in C#.
 
