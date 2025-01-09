@@ -1,0 +1,11 @@
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\bin\Debug\wordle.exe.config
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\bin\Debug\wordle.exe
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\bin\Debug\wordle.pdb
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.csproj.AssemblyReference.cache
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.csproj.SuggestedBindingRedirects.cache
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.Form1.resources
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.Properties.Resources.resources
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.csproj.GenerateResource.cache
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.csproj.CoreCompileInputs.cache
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.exe
+C:\Users\LujMi\Desktop\zapoctak_origin\wordle\wordle\obj\Debug\wordle.pdb
